@@ -8,8 +8,7 @@ public class EjeRepositorio1 {
         System.out.println("Hello World");
         
         System.out.println("Hola Mundo");
-        
-        System.out.println("salut monde");
+                
         
     }
     
